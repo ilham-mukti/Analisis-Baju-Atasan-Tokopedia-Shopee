@@ -10,5 +10,5 @@
 
 Jadi gini Ann, gue pernah bikin analisis singkat gitu, ngebandingin penjualan baju di Tokopedia dengan penjualan baju di Shopee, persis kayak pertanyaan lu deh pokoknya.
 
-Selengkapnya bisa dibaca disini yaaa https://ilhammukti.medium.com/mending-jual-baju-di-tokopedia-atau-shopee-yuk-bedah-melalui-data-e7b6b9794299
+Selengkapnya bisa dibaca disini yaaa https://link.medium.com/LvkgWWDvtkb
 
