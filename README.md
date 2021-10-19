@@ -1,4 +1,4 @@
-# Analisis-Baju-Atasan-Tokopedia-Shopee
+# Readme pliss :)
 
 **Anna:** Joy, lu kan sering beli barang online nih, lu sering beli baju di Tokopedia atau Shopee gak sih?<br>
 **Joy:** Sering banget Ann, kenapa emangnya?<br>
