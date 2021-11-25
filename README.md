@@ -1,14 +1,12 @@
-# Readme pliss :)
 
-**Anna:** Joy, lu kan sering beli barang online nih, lu sering beli baju di Tokopedia atau Shopee gak sih?<br>
-**Joy:** Sering banget Ann, kenapa emangnya?<br>
-**Anna:** Gue mau buka toko online gitu Joy, mau jualan baju, tapi bingung mau buka di Tokopedia atau Shopee dulu.<br>
-**Joy:** Lah kenapa gak dua-duanya aja Ann?<br>
-**Anna:** Males ngurusnya hehee, menurut lu mana yang paling worth it Joy?<br>
-**Joy:** Menurut gue *** hahaa<br>
-**Anna:** Kenapa ***?<br>
+# Mending Jual Baju di Tokopedia atau Shopee?: Yuk Bedah Melalui Data
 
-Jadi gini Ann, gue pernah bikin analisis singkat gitu, ngebandingin penjualan baju di Tokopedia dengan penjualan baju di Shopee, persis kayak pertanyaan lu deh pokoknya.
+1. Project ini berisi analisis singkat tentang perbandingan penjualan produk kategori baju atasan pria-wanita di Shopee dan Tokopedia dalam kurun waktu 1 minggu.
+2. Data yang digunakan didapat melalui scraping website Tokopedia dan Shopee
+3. Hasilnya Shopee lebih unggul dibanding Tokopedia jika dilihat dari market size dan peningkatan penjualan
+4. Tools: Python, Pandas, Tableau.
 
-Selengkapnya bisa dibaca disini yaaa https://link.medium.com/LvkgWWDvtkb
+## Documentation
+
+[Selengkapnya Bisa Baca Disini](https://link.medium.com/LvkgWWDvtkb)
 
